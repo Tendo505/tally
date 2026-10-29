@@ -10,7 +10,9 @@
 **▶ Live app: https://tendo505.github.io/tally/** (click "explore a sample trip" to see it with data)
 
 <p align="center">
-  <img src="docs/screenshot.png" width="760" alt="Tally showing a sample trip: expenses, balances and the fewest payments to settle up">
+  <img src="docs/screenshots/1-start.png" width="49%" alt="Start a group" title="Start a group">
+  <img src="docs/screenshots/2-group.png" width="49%" alt="Balances and settle-up" title="Balances and settle-up">
+  <img src="docs/screenshots/3-add-expense.png" width="49%" alt="Add an expense, four split modes" title="Add an expense, four split modes">
 </p>
 
 ## Features
