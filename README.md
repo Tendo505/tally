@@ -9,6 +9,10 @@
 
 **▶ Live app: https://tendo505.github.io/tally/** (click "explore a sample trip" to see it with data)
 
+<p align="center">
+  <img src="docs/screenshot.png" width="760" alt="Tally showing a sample trip: expenses, balances and the fewest payments to settle up">
+</p>
+
 ## Features
 
 - **Four ways to split** an expense: equally, by exact amounts, by percentage, or by shares (e.g. nights stayed). A live preview shows each person's share, and validation explains what's wrong ("€10.00 left to assign", "Percentages add up to 90%, not 100%").
